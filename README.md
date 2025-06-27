@@ -16,7 +16,7 @@ In [my blog](https://xingcy.net), I record what I've learned:
 
 ### My stat
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaslanarian&show_icons=true&count_private=true&hide=prs&theme=radical" border=0>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=WeltXing&show_icons=true&count_private=true&hide=prs&theme=radical" border=0>
 
 Your stars, forks, and issues are most welcome and appreciated :partying_face:.
 
